@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*;
 import static java.lang.System.out;
 
-class GFG {
+class subsetsum {
 
 	static int countSubsets(int arr[], int n, int sum) {
 		int dp[][] = new int[n + 1][sum + 1];
