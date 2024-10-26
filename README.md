@@ -1,0 +1,3 @@
+- **Algorithm Design**: Network Flow, NP and Computational Intractability
+- **PSPACE**: A Class of Problems Beyond NP, Extending the Limits of Tractability, Approximation Algorithms, Local Search, Randomized Algorithms
+- **Problem Solving in Data Structures & Algorithms**: String algorithms, algorithm design techniques, brute force algorithm, greedy algorithm, divide and conquer, dynamic programming, backtracking, complexity theory.
